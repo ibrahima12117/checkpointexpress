@@ -1,0 +1,89 @@
+body {
+    background-color: greenyellow;
+    margin: 30px;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: xx-large;
+    margin-top: 50px;
+    color: black;
+}
+
+a:link {
+    color: black;
+}
+
+
+a:visited {
+    color: gray;
+}
+
+
+a:hover {
+    color: green;
+}
+
+
+a:active {
+    color: yellow;
+}
+
+#mage3 {
+    width: 100%;
+    opacity: 0.5;
+    border-radius: 20px;
+    height: 450px;
+}
+
+.texto {
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    transform: translate(-50%, -50%);
+    color: black;
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.formu {
+    width: 500px;
+    height: 630px;
+    background-color: whitesmoke;
+    margin-left: 150px;
+    border-radius: 30px;
+    margin-top: -75px;
+    position: absolute;
+
+}
+
+form {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 1em;
+    
+    
+}
+
+label {
+    display: block;
+    margin-top: 1em;
+}
+
+input,
+select,
+textarea {
+    width: 100%;
+    padding: 0.5em;
+    margin-top: 0.5em;
+    border: 1px solid #ccc;
+
+}
+.but{
+    background-color: greenyellow;
+    padding: 15px 30px;
+    margin-left: 330px;
+    border-radius: 35px;
+}

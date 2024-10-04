@@ -1,0 +1,121 @@
+body {
+    background-color: red;
+    margin: 30px;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: xx-large;
+    margin-top: 50px;
+    color: black;
+}
+
+.gue {
+    height: 700px;
+    width: 100%;
+    background-color: black;
+    border-radius: 20px;
+
+}
+
+.par {
+    text-align: center;
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+#image {
+    width: 400px;
+    height: 350px;
+    border-radius: 20px;
+}
+
+.ia {
+    color: white;
+    text-align: center;
+    font-size: 35px;
+}
+
+.tes {
+    display: flex;
+    gap: 100px;
+}
+
+.par2 {
+    color: white;
+    text-align: center;
+}
+
+.nan {
+    display: flex;
+    justify-content: center;
+}
+
+.WEB {
+    border: none;
+    border-radius: 20px;
+    color: white;
+    background-color: gray;
+    padding: 15px 20px;
+    font-size: 18px;
+    display: inline;
+    justify-content: center;
+}
+
+.par3 {
+    display: flex;
+    gap: 90px;
+    margin: 30px;
+}
+
+.text {
+    font-size: 20px;
+}
+
+.par5 {
+    display: flex;
+    gap: 100px;
+
+}
+
+#im {
+    width: 400px;
+    height: 500px;
+    border-radius: 20px;
+    margin-right: 30px;
+}
+
+a:link {
+    color: black;
+}
+
+/*visited link*/
+a:visited {
+    color:gray;
+}
+
+/*mouse over link*/
+a:hover {
+    color: green;
+}
+
+/*selected link*/
+a:active {
+    color: yellow;
+}
+#box{
+    width: 100%;
+    height: 360px;
+    background-color: gray;
+    border-radius: 20px;
+}
+.bop{
+    text-align: center;
+}
+#button{
+    font-size: xx-large;
+    color: red;
+}
